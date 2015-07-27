@@ -16,11 +16,10 @@
 		</groups>
 		<classes>
 			<class name="com.almundo.automation.tests.OneKeyTests" />
-			<!-- <methods>
-				<include name="verifyChoiceEntity"
+			 <methods>
+				<include name="prueba"
 					invocation-numbers="0" />
 			</methods>
-			 -->
 		</classes>
 	</test>
 </suite>
